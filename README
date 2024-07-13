@@ -1,3 +1,5 @@
 ## MNIST Neural Network
 
 Neural net from scratch, written in C.
+
+This code is a bit sloppy and not very optimized, but the goal was to just create something simple from scratch.
